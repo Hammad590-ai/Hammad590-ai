@@ -1,3 +1,5 @@
+![logo](https://github.com/Hammad590-ai/Hammad590-ai/blob/main/banner%20github.png)
+
 <h1 align="center">Hi 👋, I'm Hammad Ali</h1>
 <h3 align="center">I passionate data scientist and ML engineer from Pakistan</h3>
 <img align="right" alt=aa"coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
