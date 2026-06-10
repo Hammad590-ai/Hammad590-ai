@@ -1,6 +1,6 @@
 <!-- HEADER BANNER -->
 <p align="center">
-  <img src="https://github.com/Hammad590-ai/Hammad590-ai/blob/main/banner%20github.png" alt="banner" />
+  <img src="https://github.com/Hammad590-ai/Hammad590-ai/blob/main/updated%20banner%20for%20github.png" alt="banner" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Hammad Ali</h1>
