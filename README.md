@@ -1,7 +1,7 @@
 <!-- HEADER BANNER -->
 <p align="center">
- 
-<img align="right" alt=aa"coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+  <img src="https://github.com/Hammad590-ai/Hammad590-ai/blob/main/banner%20github.png" alt="banner" />
+</p>
 
 <h1 align="center">Hi 👋, I'm Hammad Ali</h1>
 <h3 align="center">AI Engineer | Machine Learning Engineer | Data Scientist | Data Analyst</h3>
@@ -9,7 +9,6 @@
 <p align="center">
   Passionate about building intelligent systems using Machine Learning, Deep Learning, and LLMs.
 </p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hammad590-ai&label=Profile%20views&color=0e75b6&style=flat">
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=hammad590-ai&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
