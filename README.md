@@ -1,7 +1,7 @@
 <!-- HEADER BANNER -->
 <p align="center">
-  <img src="https://github.com/Hammad590-ai/Hammad590-ai/blob/main/banner%20github.png" alt="banner" />
-</p>
+ 
+<img align="right" alt=aa"coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 <h1 align="center">Hi 👋, I'm Hammad Ali</h1>
 <h3 align="center">AI Engineer | Machine Learning Engineer | Data Scientist | Data Analyst</h3>
