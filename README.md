@@ -9,6 +9,7 @@
 <p align="center">
   Passionate about building intelligent systems using Machine Learning, Deep Learning, and LLMs.
 </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=hammad590-ai&label=Profile%20views&color=0e75b6&style=flat">
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=hammad590-ai&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
